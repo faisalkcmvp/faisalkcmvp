@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @faisalkcmvp
-- 👀 I’m interested in dotNet
+- 👀 I’m interested in GoLang
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on iOS Development
-- 📫 How to reach me faisal@mvp-apps.ae
+- 💞️ I’m looking to collaborate on open source project
+- 📫 How to reach me faisal@mvp-apps.ae +971 56 447 5626
 
 <!---
 faisalkcmvp/faisalkcmvp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
